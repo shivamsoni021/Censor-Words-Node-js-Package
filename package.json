@@ -4,6 +4,14 @@
 	"version": "0.0.1",
 	"description": "Censor words out of text",
 	"main": "censortext",
+	"repository":{
+		"type": "git",
+		"url":"https://github.com/shivamsoni021/Censor-Words-Node-js-Package.git"
+	},
+	"keywords":[
+		"censor",
+		"words"
+	],
 	"dependencies": {},
 	"engines":{
 		"node": "*"
